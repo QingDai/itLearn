@@ -1,6 +1,6 @@
 ---
 layout:default
-posttitle: 我的第一个测试Blog
+posttitle: "我的第一个测试Blog"
 ---
 
 <h2>test</h2>
