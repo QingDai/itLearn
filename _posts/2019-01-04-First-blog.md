@@ -1,6 +1,8 @@
 ---
-layout:default
-posttitle: "我的第一个测试Blog"
+layout: post
+title: 我的第一个测试Blog
+date: 2019-01-07 13:50:39
+categories: others
 ---
 
 <h2>test</h2>
